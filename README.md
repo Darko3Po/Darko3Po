@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+<h1 align="center">Hi 👋, I'm Darko</h1>
+<h3 align="center">My name is Darko and I'm a Back-end developer who loves to work with PHP and Laravel. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies that I can leverage to solve real-life problems.</h3>
+
 <!--
 **Darko3Po/Darko3Po** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
