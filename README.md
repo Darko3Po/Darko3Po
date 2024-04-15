@@ -1,4 +1,4 @@
-![image](https://github.com/Darko3Po/Darko3Po/assets/49729584/dab12d5f-0bfc-49e8-ab9f-c93599d1a547)<h1 align="left">👋 Hey there</h1>
+<h1 align="left">👋 Hey there</h1>
 <h3 align="left">My name is Darko and I'm a Back-end developer who loves to work with PHP and Laravel. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies that I can leverage to solve real-life problems.</h3>
 
 
@@ -13,8 +13,7 @@
 			<strong>PHP</strong>
 		</td>
 		<td align="center" height="121" width="121">
-			<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/Darko3Po/Darko3Po/assets/49729584/a98746d5-1920-47bc-aed2-f48cb214c238)
-" alt="laravel" width="40" height="40"/> </a>
+			<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/Darko3Po/Darko3Po/assets/49729584/dab12d5f-0bfc-49e8-ab9f-c93599d1a547)" alt="laravel" width="40" height="40"/> </a>
 			<br>
 			<strong>Laravel</strong>
 		</td>
