@@ -13,7 +13,7 @@
 			<strong>PHP</strong>
 		</td>
 		<td align="center" height="121" width="121">
-			<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/Darko3Po/Darko3Po/assets/49729584/dab12d5f-0bfc-49e8-ab9f-c93599d1a547)" alt="laravel" width="40" height="40"/> </a>
+			<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="laravel" width="40" height="40"/> </a>
 			<br>
 			<strong>Laravel</strong>
 		</td>
